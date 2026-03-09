@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Chaitanya
+## Hi there, I'm Chaitanya
 
 <!--
 **Chaitanya-G41/Chaitanya-G41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-👋 Hi, I’m Chaitanya!<br><br>I’m a Data Science student at RV College of Engineering (RVCE) with a growing interest in  <br>**Machine Learning, Data Analytics, and Web Development**.<br><br> 💻 What I’m learning right now<br>- Python for Data Science  <br>- C++ (DSA basics and OOP)  <br>- Web Development (HTML, CSS, JavaScript)  
+# About Me:
+Hi, I’m Chaitanya!<br><br>I’m a Data Science student at RV College of Engineering (RVCE) with a growing interest in  <br>**Machine Learning, Data Analytics, and Web Development**.<br><br> 💻 What I’m learning right now<br>- Python for Data Science  <br>- C++ (DSA basics and OOP)  <br>- Web Development (HTML, CSS, JavaScript)  
 
 
 ## 🌐 Socials:
