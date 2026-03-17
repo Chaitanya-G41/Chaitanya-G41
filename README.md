@@ -1,14 +1,7 @@
-## Hi there, I'm Chaitanya
 
 # About Me:
-Hi, I’m Chaitanya!<br><br>I’m a Data Science student at RV College of Engineering (RVCE) with a growing interest in  <br>**Machine Learning, Data Analytics, and Web Development**.<br><br> 💻 What I’m learning right now<br>- Python for Data Science  <br>- C++ (DSA basics and OOP)  <br>- Web Development (HTML, CSS, JavaScript)  
+Hi, I’m Chaitanya!<br><br>I’m a Data Science student at RV College of Engineering (RVCE) with a growing interest in  <br>**Machine Learning, Data Analytics, and Web Development**.<br><br> 💻 What I’m learning right now<br>- Python for Data Science  <br>- C++ (DSA)  <br>- Web Development  
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chaitanya-g-689a82378) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaitanyag404@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Chaitanya-G41&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Chaitanya-G41&theme=dark&hide_border=false)<br/>
